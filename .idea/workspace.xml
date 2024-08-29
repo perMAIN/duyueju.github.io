@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5994c9c1-97a0-410e-880a-587671af66b9" name="默认更改列表" comment="默认更改列表">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyj_auth/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyj_common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyj_starter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyj_starter/src/main/java/com/dyj/starter/DYJApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dyj_support/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/blog/blog.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/BlogApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/common/annotation/LogAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/common/aspect/LogAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/common/cache/RedisManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/common/constant/Base.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/common/constant/ResultCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/common/controlleradvice/ClearTokenResponseBodyAdvice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/common/controlleradvice/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/common/entity/BaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/common/exception/BaseException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/common/interceptor/ClearTokenInteceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/common/json/ExtGenericFastJsonRedisSerializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/common/result/ParameterInvalidItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/common/result/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/common/util/HttpContextUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/common/util/IpUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/common/util/PasswordHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/common/util/StringUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/common/util/UserUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/config/FilterConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/config/RedisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/config/ShiroConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/config/WebMvcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/controller/ArticleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/controller/CategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/controller/CommentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/controller/TagController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/controller/UploadController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/entity/Article.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/entity/ArticleBody.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/entity/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/entity/Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/entity/Log.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/entity/Tag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/entity/UserStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/oauth/OAuthRealm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/oauth/OAuthSessionDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/oauth/OAuthSessionManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/repository/ArticleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/repository/CategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/repository/CommentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/repository/LogRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/repository/TagRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/repository/impl/ArticleRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/repository/impl/CategoryRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/repository/impl/TagRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/repository/wrapper/ArticleWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/repository/wrapper/CategoryWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/repository/wrapper/TagWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/service/ArticleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/service/CategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/service/CommentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/service/LogService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/service/TagService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/service/impl/ArticleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/service/impl/CategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/service/impl/CommentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/service/impl/LogServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/service/impl/TagServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/vo/ArticleVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/vo/CategoryVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/vo/PageVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/java/com/shimh/vo/TagVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/ehcache.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/log4j2-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/sql/blog-data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/sql/blog-schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/category/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/category/database.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/category/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/category/language.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/category/lift.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/css/app.3da4c4025c3d262c99005e6d56f618da.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/css/app.3da4c4025c3d262c99005e6d56f618da.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/fonts/element-icons.6f0a763.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/fonts/fontello.068ca2b.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/fonts/fontello.e73a064.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/img/fontello.9354499.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/img/logo.0e3a2b5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/0.541abc7eadbe6ddede6b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/0.541abc7eadbe6ddede6b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/1.da4d60dbb1e419b79334.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/1.da4d60dbb1e419b79334.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/10.1579b3dea41e058f6854.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/10.1579b3dea41e058f6854.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/2.0370259fb135c1a2874f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/2.0370259fb135c1a2874f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/3.79609af231a14d8b8ead.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/3.79609af231a14d8b8ead.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/4.c7f328ba5f9024f47eec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/4.c7f328ba5f9024f47eec.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/5.6755010dd4d3be54a6e9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/5.6755010dd4d3be54a6e9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/6.7b33be54a485e77ca738.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/6.7b33be54a485e77ca738.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/7.f4c65b7448ee57cb7093.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/7.f4c65b7448ee57cb7093.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/8.da0debd7d5ff290e65df.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/8.da0debd7d5ff290e65df.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/9.b0704b91f93999a0fbd7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/9.b0704b91f93999a0fbd7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/app.038f0f2e05268d414625.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/app.038f0f2e05268d414625.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/manifest.3bb8237077028ff666e9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/manifest.3bb8237077028ff666e9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/vendor.9084f246f10e25c4ce63.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/js/vendor.9084f246f10e25c4ce63.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/tag/css.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/tag/hibernate.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/tag/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/tag/java.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/tag/js.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/tag/maven.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/tag/vue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/user/admin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/user/user_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/user/user_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/user/user_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/user/user_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/user/user_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/user/user_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/main/resources/static/vedio/sea.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/test/java/com/shimh/BlogApiApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/test/java/com/shimh/controller/UserControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/test/java/com/shimh/dao/CategoryRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/test/java/com/shimh/dao/CommentRepositoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/test/java/com/shimh/json/JSONTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/test/java/com/shimh/log/LogTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/test/java/com/shimh/redis/RedisManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/test/java/com/shimh/result/ResultTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/test/java/com/shimh/service/ArticleServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/test/java/com/shimh/service/CategoryServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/test/java/com/shimh/service/TagServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-api/src/test/java/com/shimh/service/UserServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/.postcssrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/build/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/build/check-versions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/build/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/build/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/build/vue-loader.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/build/webpack.base.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/build/webpack.dev.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/build/webpack.prod.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/config/dev.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/config/prod.env.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/api/article.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/api/category.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/api/comment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/api/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/api/tag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/api/upload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/icon/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/icon/demo_fontclass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/icon/demo_symbol.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/icon/demo_unicode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/icon/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/icon/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/icon/iconfont.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/icon/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/icon/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/icon/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/img/default_avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/alert.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/aside.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/autocomplete.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/badge.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/breadcrumb-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/breadcrumb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/button-group.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/card.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/carousel-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/cascader.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/checkbox-button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/checkbox-group.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/checkbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/col.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/collapse-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/collapse.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/color-picker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/container.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/date-picker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/display.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/dropdown-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/dropdown-menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/dropdown.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/fonts/element-icons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/fonts/element-icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/form-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/icon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/input-number.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/input.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/loading.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/menu-item-group.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/menu-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/message-box.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/message.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/notification.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/option-group.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/option.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/pagination.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/popover.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/popper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/progress.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/radio-button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/radio-group.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/radio.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/rate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/row.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/scrollbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/select-dropdown.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/spinner.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/step.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/steps.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/submenu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/switch.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/tab-pane.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/table-column.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/table.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/tabs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/tag.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/time-picker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/time-select.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/tooltip.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/transfer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/tree.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/assets/theme/upload.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/components/BaseFooter.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/components/article/ArticleItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/components/card/CardArchive.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/components/card/CardArticle.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/components/card/CardCategory.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/components/card/CardMe.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/components/card/CardTag.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/components/comment/CommentItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/components/gotop/GoTop.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/components/markdown/MarkdownEditor.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/components/scrollpage/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/request/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/request/token.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/store/mutation-types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/utils/time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/views/BaseHeader.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/views/Index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/views/Log.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/views/Login.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/views/MessageBoard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/views/Register.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/views/blog/BlogAllCategoryTag.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/views/blog/BlogArchive.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/views/blog/BlogCategoryTag.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/views/blog/BlogView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/views/blog/BlogWrite.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/src/views/common/ArticleScrollPage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/category/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/category/database.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/category/front.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/category/language.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/category/lift.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/tag/css.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/tag/hibernate.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/tag/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/tag/java.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/tag/js.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/tag/maven.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/tag/vue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/user/admin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/user/user_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/user/user_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/user/user_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/user/user_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/user/user_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/user/user_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog-app/static/vedio/sea.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../document/archive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../document/comment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../document/comment2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../document/ct-detail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../document/ct.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../document/detail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../document/index.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../document/index2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../document/login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../document/register.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../document/write.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\JAVA\maven\apache-maven-3.9.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2l76QQqg9oLjU7nWdCYX7xEbZ83" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5994c9c1-97a0-410e-880a-587671af66b9" name="默认更改列表" comment="" />
+      <created>1724518751019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724518751019</updated>
+      <workItem from="1724518754486" duration="444000" />
+      <workItem from="1724641375090" duration="1887000" />
+      <workItem from="1724725952220" duration="765000" />
+      <workItem from="1724731353403" duration="368000" />
+      <workItem from="1724733722830" duration="1297000" />
+      <workItem from="1724917753264" duration="627000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
