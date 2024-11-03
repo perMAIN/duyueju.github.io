@@ -107,12 +107,15 @@ const onSubmit = () => {
   if (formInline.name == "zq" && formInline.pass == "202") {
     console.log("成功访问 YOYO 的个人博客");
     router.push("/zq");
+    localStorage.setItem("token", "111");
   } else if (formInline.name == "zy" && formInline.pass == "614") {
     console.log("成功访问 喜￥￥ 的个人博客");
     router.push("/zy");
+    localStorage.setItem("token", "112");
   } else if (formInline.name == "zdy" && formInline.pass == "904") {
     console.log("成功访问 渡月橘 的个人博客");
     router.push("/zdy");
+    localStorage.setItem("token", "113");
   } else {
     console.log("您无权访问");
   }
@@ -123,9 +126,9 @@ window.onload = function () {
   //更新时钟
   function update() {
     var date = new Date();
-    var hr = date.getHours();
-    var min = date.getMinutes();
     var sec = date.getSeconds();
+    var min = date.getMinutes() + sec / 60;
+    var hr = date.getHours() + min / 60;
     document.documentElement.style.setProperty("--hrAngle", `${hr * 30}deg`);
     document.documentElement.style.setProperty("--minAngle", `${min * 6}deg`);
     document.documentElement.style.setProperty("--secAngle", `${sec * 6}deg`);

@@ -1,6 +1,5 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
 
-
 const routes = [{
         path: '/',
         redirect: '/login'
@@ -48,8 +47,9 @@ const router = createRouter({
     routes
 })
 
-// router.beforeEach(to, from, next){
-//   next()
-// }
+router.beforeEach((to, from, next) => {
+    let token = localStorage.getItem("token");
+    if (token || to.path === "/login") { next() } else { next("/login") }
+})
 
 export default router

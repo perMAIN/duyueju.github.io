@@ -1,13 +1,9 @@
 <template>
-  <h1>欢迎登录！</h1>
+  <ZDYCard></ZDYCard>
 </template>
-
-<script>
-export default {
-
-}
+<script setup>
+import ZDYCard from "@/components/ZDYCard.vue";
 </script>
 
-<style>
-
+<style scoped>
 </style>
